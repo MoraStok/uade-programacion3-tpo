@@ -8,7 +8,7 @@ _Implementación backtracking_
 * Gewisgold Federico
 
 
-#Enunciado a resolver 🔎 💻
+# Enunciado a resolver 🔎 💻
 
 Se deberá construir un algoritmo para resolver un problema de criptoaritmética. El algoritmo
 deberá devolver una posible solución con los de valores de cada una de las letras involucradas.
@@ -22,7 +22,7 @@ misma operación matemática. Pero siempre deben cumplir que:
 2. El dígito inicial de un número de varios dígitos no debe ser cero
 
 
-Problema a resolver 🔎
+# Problema a resolver 🔎
 Se deberá diseñar un algoritmo que suponiendo una operación de adición, dadas tres palabras (
 dos sumandos y un resultado) devuelva una de las posibles combinaciones de valores que puede
 tomar cada una de esas letras para devolver un resultado válido.
@@ -38,4 +38,5 @@ implementado en el método obtenerResultado.
 
 
 ## Ejemplos 📝
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/61808965/122137309-b2d97780-ce1a-11eb-952d-d30e2d59dd67.png)
+
