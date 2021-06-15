@@ -4,7 +4,7 @@ _Implementación backtracking_
 ## Integrantes 🎓
 * Levigna Franco
 * Merlo Joaquin
-* Stok Llovet Mora
+* Llovet Stok Mora
 * Gewisgold Federico
 
 
